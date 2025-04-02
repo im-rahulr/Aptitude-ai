@@ -1,0 +1,8 @@
+You'll need to add the following team member images to the images folder:
+
+1. images/judson.jpg - Image for Judson (CEO - Founder)
+2. images/rahul.jpg - Image for Rahul R (CTO - Cofounder) 
+3. images/sudeep.jpg - Image for Sudeep Appu (Chief of Research and Development)
+4. images/contact.jpg - Image for contact information
+
+These images should be square format for best results. 
